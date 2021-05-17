@@ -9,6 +9,9 @@ https://towardsdatascience.com/a-comprehensive-beginners-guide-to-the-diverse-fi
 ## k-Nearest Neighbors (kNN) for anomaly detection
 https://towardsdatascience.com/k-nearest-neighbors-knn-for-anomaly-detection-fdf8ee160d13
 
+## Statistical techniques for anomaly detection
+https://towardsdatascience.com/statistical-techniques-for-anomaly-detection-6ac89e32d17a
+
 ## Research Papers on Anomaly Detections
 ### Local Anomaly Detection by Application of Regression Analysis on PMU Data
 https://pureadmin.qub.ac.uk/ws/portalfiles/portal/150171917/Local_Anomaly_Detection_by_Application_of_Regression_Analysis_on_PMU_Data.pdf
